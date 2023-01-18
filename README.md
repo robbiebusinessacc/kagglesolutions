@@ -4,4 +4,4 @@ This repository is a collection of my solutions for Kaggle problems. All solutio
 
 ## Navigation
 
-The solutions are organized alphabetically and are located in the `solutions` directory.
+The solutions are organized alphabetically and are located in the same directory.
